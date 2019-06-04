@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fitsSystemWindows="true">
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="56dp"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp">
+
+        <ImageView android:src="@drawable/logo_title"
+                   android:layout_width="wrap_content"
+                   android:layout_height="72dp"
+                   android:layout_marginBottom="24dp"
+                   android:layout_gravity="center_horizontal"/>
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp" android:background="#FFEB3B" android:id="@+id/tblrow_private">
+                <ImageView
+                        android:layout_height="80dp" app:srcCompat="@drawable/ic_private"
+                        android:id="@+id/imageView8" android:layout_width="80dp"/>
+                <TextView
+                        android:text="@string/signup_private"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" android:id="@+id/textView5"
+                        android:layout_marginLeft="20dp" android:layout_marginRight="20dp"
+                        android:gravity="center_vertical"/>
+            </TableRow>
+        </LinearLayout>
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp" android:background="#F44336" android:id="@+id/tblrow_youtuber">
+                <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp" app:srcCompat="@drawable/ic_youtuber"
+                        android:id="@+id/imageView2"/>
+                <TextView
+                        android:text="@string/signup_youtuber"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" android:id="@+id/textView6"
+                        android:layout_marginLeft="20dp" android:layout_marginRight="20dp"
+                        android:gravity="center_vertical"/>
+            </TableRow>
+        </LinearLayout>
+        <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" android:layout_marginTop="20dp"
+                    android:layout_marginBottom="20dp" android:background="#03A9F4" android:id="@+id/tblrow_company">
+                <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp" app:srcCompat="@drawable/ic_company"
+                        android:id="@+id/imageView3"/>
+                <TextView
+                        android:text="@string/signup_company"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" android:id="@+id/textView7"
+                        android:layout_marginLeft="20dp" android:layout_marginRight="20dp"
+                        android:gravity="center_vertical"/>
+            </TableRow>
+        </LinearLayout>
+
+        <!-- Name Label -->
+
+        <!-- Address Label -->
+
+
+        <!--  Email Label -->
+
+
+        <!-- mobile number -->
+
+        <!-- Password Label -->
+
+        <!-- Password Re-enter Label -->
+
+        <!-- Signup Button -->
+
+        <TextView android:id="@+id/link_login"
+                  android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginBottom="40dp"
+                  android:text="@string/to_login"
+                  android:gravity="center"
+                  android:textSize="16sp" android:layout_marginTop="40dp"/>
+
+    </LinearLayout>
+</ScrollView>

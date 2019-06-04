@@ -1,0 +1,265 @@
+{
+  "project_info": {
+    "project_number": "26830513784",
+    "firebase_url": "https://capstone-5b946.firebaseio.com",
+    "project_id": "capstone-5b946",
+    "storage_bucket": "capstone-5b946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26830513784:android:20f7b844d40957a7",
+        "android_client_info": {
+          "package_name": "com.cap.mycap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26830513784-8js1lh09jl0p4k0ebo3ofqp5varhnrip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cap.mycap",
+            "certificate_hash": "70bc592b1d7b253263fe5d81adaac69878099c72"
+          }
+        },
+        {
+          "client_id": "26830513784-jlu2pu6719k7bifrppmonqkhrupgvdus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cap.mycap",
+            "certificate_hash": "6395cb88cc874f75fb74945df6fec844af8429f2"
+          }
+        },
+        {
+          "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCvmZ_GBfJ_oJXvtTGfBHOCpn-TIswZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26830513784:android:988ad1701d464946",
+        "android_client_info": {
+          "package_name": "com.company.howl.howlstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26830513784-oiumr9mqr9t4glnhuv36hboqvg15svts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.howl.howlstagram",
+            "certificate_hash": "6308fd08c8c8e9dd97b548ff38ebc98676115c06"
+          }
+        },
+        {
+          "client_id": "26830513784-cv0dfv0s2gb3q5dtnj1uq10adcuq9l7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.howl.howlstagram",
+            "certificate_hash": "6395cb88cc874f75fb74945df6fec844af8429f2"
+          }
+        },
+        {
+          "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCvmZ_GBfJ_oJXvtTGfBHOCpn-TIswZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26830513784:android:aa0885844b407b61",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26830513784-9dm6unaq7qe3al5a3k6eg7sbbj7k5hks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstone",
+            "certificate_hash": "d641f7c5794baa863d919d99dc0123d9d3c2c147"
+          }
+        },
+        {
+          "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCvmZ_GBfJ_oJXvtTGfBHOCpn-TIswZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26830513784:android:e6bad2864b060346",
+        "android_client_info": {
+          "package_name": "com.howl.howlstagram_f16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26830513784-vo2e60trkdc32gs3uen5cdt7kq7uav2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.howl.howlstagram_f16",
+            "certificate_hash": "70bc592b1d7b253263fe5d81adaac69878099c72"
+          }
+        },
+        {
+          "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCvmZ_GBfJ_oJXvtTGfBHOCpn-TIswZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26830513784:android:b180052adeb97ed4",
+        "android_client_info": {
+          "package_name": "com.ljh.Capst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26830513784-82ao60l7848pteen53r96qi78egngv67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ljh.Capst",
+            "certificate_hash": "70bc592b1d7b253263fe5d81adaac69878099c72"
+          }
+        },
+        {
+          "client_id": "26830513784-8joppqcuncmft12a6icksa5hphup65tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ljh.Capst",
+            "certificate_hash": "d641f7c5794baa863d919d99dc0123d9d3c2c147"
+          }
+        },
+        {
+          "client_id": "26830513784-mtns7e23g6ggljimv1mntsdhajjsj7a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ljh.Capst",
+            "certificate_hash": "6395cb88cc874f75fb74945df6fec844af8429f2"
+          }
+        },
+        {
+          "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCvmZ_GBfJ_oJXvtTGfBHOCpn-TIswZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26830513784:android:a4b0a6895ea3d369",
+        "android_client_info": {
+          "package_name": "com.sourcey.materialloginexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26830513784-0bqk7il9p66pfimj8evovebpt92ldca1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourcey.materialloginexample",
+            "certificate_hash": "6308fd08c8c8e9dd97b548ff38ebc98676115c06"
+          }
+        },
+        {
+          "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCvmZ_GBfJ_oJXvtTGfBHOCpn-TIswZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26830513784-vnvbc8uacbgha06kpmck3civc2qff0v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
